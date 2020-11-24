@@ -10,7 +10,7 @@ class Connection {
         host: "34.70.158.217",
         user: "root",
         password: "SamwiseTheGamgee",
-        database: "myGoogleDatabase",
+        database: "Capstone",
       });
       return this.pool;
     }
